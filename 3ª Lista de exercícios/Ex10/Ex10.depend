@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663283748 source:c:\users\pichau\onedrive\documentos\engenharia de software\faculdade\1º período\algoritmos e estruturas de dados i\1 - trabalhos\3ª lista de exercícios\ex10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661890902 source:c:\users\pichau\onedrive\documentos\engenharia de software\faculdade\1º período\algoritmos e estruturas de dados i\2 - práticas\1ª lista de exercícios\exercício 4 - b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
